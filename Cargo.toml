@@ -6,10 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-ed25519-bip32 = "0.4.1"
-hex = "0.4.3"
+bn254 = "0.0.1"
 hex-literal = "0.3.4"
 hkdf = "0.12.3"
-rand_core = "0.6.4"
 sha2 = "0.10.6"
 tiny-bip39 = "1.0.0"
